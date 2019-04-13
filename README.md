@@ -8,9 +8,9 @@ and also will add the match of different types of Multiple units and more comple
 1. Please put different cases into the data folder
 2. Select case for analysis in case_list
 
-#Analysis
+# Analysis
 run the script 'run.sh' to generate useful planning for the given
                                                                                                                                                                  
-#Algorithms
+# Algorithms
 use Adaptive Large Neighborhood Search to solve TSP problems
                                                                                         
