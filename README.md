@@ -9,7 +9,7 @@ and also will add the match of different types of Multiple units and more comple
 2. Select case for analysis in case_list
 
 # Analysis
-run the script 'run.sh' to generate useful planning for the given
+run the main ALSN to generate useful planning for the given
                                                                                                                                                                  
 # Algorithms
 use Adaptive Large Neighborhood Search to solve TSP problems
